@@ -18,6 +18,8 @@ Welcome to Sahar's list of awesome websites, apps, lists, and other cool resourc
 - [Awesome Readme](https://github.com/matiassingers/awesome-readme) - A curated list of awesome READMEs.  
 - [Awesome D&D](https://github.com/flamableconcrete/awesome-dnd) - Resources for Dungeons & Dragons
 - [Awesome ComputerCraft](https://github.com/tomodachi94/awesome-computercraft) - Useful libraries, programs, literature, and mods for ComputerCraft and its forks.
+- [Awesome App Ideas](https://github.com/florinpop17/app-ideas) - can be used to improve your coding skills.
+- [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 
 ## Awesome Websites
 - [Windows 93](https://www.windows93.net) - A humorous and nostalgic online simulation of the fictional operating system Windows 93.
