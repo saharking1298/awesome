@@ -20,15 +20,15 @@ Welcome to Sahar's list of awesome websites, apps, lists, and other cool resourc
 - [Awesome ComputerCraft](https://github.com/tomodachi94/awesome-computercraft) - Useful libraries, programs, literature, and mods for ComputerCraft and its forks.
 - [Awesome App Ideas](https://github.com/florinpop17/app-ideas) - can be used to improve your coding skills.
 - [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
-- [List of lists of lists](https://en.wikipedia.org/wiki/List_of_lists_of_lists) - A extremely long Wikipedia page for lists of lists.
+- [List of lists of lists](https://en.wikipedia.org/wiki/List_of_lists_of_lists) - An extremely long Wikipedia page for lists of lists.
 
 ## Awesome Websites
 - [Windows 93](https://www.windows93.net) - A humorous and nostalgic online simulation of the fictional operating system Windows 93.
 - [Neal.fun](https://neal.fun/) - A fun websites with all sorts of cool activities.
 - [Cameron's World](https://www.cameronsworld.net) - A collection of awesome old internet pages from the 90s.
 - [Star Wars IV Scrolling Page](https://swanh.net) - Scroll Through All of Star Wars: Episode IV As a Single Intense Image.
-- [Live Cyber Threat Map](https://threatmap.checkpoint.com) - A real time map of all cyber attcks occuring right now around the globel.
-- [Silk](http://weavesilk.com) - An interactive art generator
+- [Live Cyber Threat Map](https://threatmap.checkpoint.com) - A real time map of all cyber attcks occuring right now around the globe.
+- [Silk](http://weavesilk.com) - An interactive art generator.
 - [noclip](https://noclip.website) - A digital museum of video game levels.
 - [XKCD Comics](https://xkcd.com) - A webcomic of romance, sarcasm, math, and language.
 
